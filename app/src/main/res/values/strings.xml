@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQuote</string>
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+    <string name="about">Tentang saya</string>
+    <string name="nama_anggota_1">FADHIL PRAWIRA</string>
+    <string name="nim_anggota_1">21060120140057</string>
+    <string name="nim_anggota_2">21060120130071</string>
+    <string name="nama_anggota_2">Aliifah Hanaan</string>
+    <string name="nama_anggota_3">Laila Himatul Khaizah</string>
+    <string name="nim_anggota_3">21060120120026</string>
+</resources>
